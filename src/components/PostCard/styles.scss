@@ -1,0 +1,23 @@
+.post-card-container {    
+    .auther-label {
+        color: #949494;
+        font-size: 12px;
+    }
+
+    .card-header {
+        position: relative;
+
+        .action-button {
+            position: absolute;
+            right: 0;
+        }
+    }
+
+    .edit-field {
+        width: 100%;
+    }
+
+    .edit-button {
+        float: right;
+    }
+}

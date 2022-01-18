@@ -1,0 +1,21 @@
+
+.login-container {
+  text-align: center;
+
+  .login-form {
+    max-width: 330px;
+    margin: 0 auto;
+    display: flex;
+    background-color: #f1f7fe;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 15%;
+    border-radius: 4px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+
+    .login-button {
+      margin-top: 50px;
+    }
+  }
+}
+  
